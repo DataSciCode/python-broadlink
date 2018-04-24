@@ -22,7 +22,7 @@ setup(
     version=0.8,
     author='Matthew Garrett',
     author_email='mjg59@srcf.ucam.org',
-    url='http://github.com/mjg59/python-broadlink',
+    url='https://github.com/DataSciCode/python-broadlink',
     packages=find_packages(),
     scripts=[],
     install_requires=dynamic_requires,
